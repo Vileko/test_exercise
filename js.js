@@ -6,4 +6,6 @@ function test(a,b,c) {
     return a + b * c
 }
 ss
+
+123
 test(a,b,c)
